@@ -13,6 +13,10 @@ financial-regulation law, researched and drafted in collaboration with Claude
   trust-charter approvals and the GENIUS Act.
 - **Sovereign Stablecoins** — state-issued stablecoins (Wyoming FRNT, North
   Dakota Roughrider Coin).
+- **Silence Without Sanction** — the Federal Reserve's FOMC communications
+  blackout and the June 2026 Bowman episode.
+- **More Than the Maximum** — how private credit funds set and waived their
+  redemption gates in the Q1 2026 run; sponsor support and the "5%/7%" ceiling.
 
 ## Framing
 Each work is presented as **AI-assisted, human-directed**: Claude served as a
